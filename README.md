@@ -16,3 +16,7 @@ This repo is a collection of all the amazing resources available out there for R
 I mean all the work has already been done by this gentleman, Jonathan Saring.
 
 [Here](https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312) is everythign you will ever need.
+
+
+[**And here comes React Native Gods**](https://github.com/jondot/awesome-react-native)
+
