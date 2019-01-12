@@ -17,6 +17,6 @@ I mean all the work has already been done by this gentleman, Jonathan Saring.
 
 [Here](https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312) is everythign you will ever need.
 
-
-[**And here comes React Native Gods**](https://github.com/jondot/awesome-react-native)
+# And And And, this gives me chills everytime I see the amount of content in
+[**React Native God Repo**](https://github.com/jondot/awesome-react-native)
 
